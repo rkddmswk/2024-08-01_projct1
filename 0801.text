@@ -1,0 +1,4 @@
+초기세팅
+======================
+npm uninstall -g create-react-app >>> 삭제하기
+npx create-react-app main >>> 설치하기
